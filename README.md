@@ -45,3 +45,12 @@ To set up the environment and install all dependencies, run the following comman
  Install dependencies
    pip install -r requirements.txt
 ```
+
+Results
+
+### Results
+🏆 **Kaggle Competition Result:** I participated in the "Predicting F1 Pit Stops" competition and achieved a performance score of **0.83041**.
+
+*   **Rank:** Top 760 (on the leaderboard).
+*   **Improvement:** Boosted the model performance from **0.803** to **0.830** through hyperparameter tuning and feature engineering.
+
