@@ -51,6 +51,6 @@ Results
 ### Results
 🏆 **Kaggle Competition Result:** I participated in the "Predicting F1 Pit Stops" competition and achieved a performance score of **0.83041**.
 
-*   **Rank:** Top 760 (on the leaderboard).
+*   **Rank:** 757th out of 804 participants.
 *   **Improvement:** Boosted the model performance from **0.803** to **0.830** through hyperparameter tuning and feature engineering.
 
